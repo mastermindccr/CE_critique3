@@ -1,4 +1,5 @@
-# How to execute the script?
+# This repo aims do demo Diffie-Hellman between two hosts using docker enviornment
+## How to execute the script?
 1. Clone the repository
 2. Install docker in your unix environment by
 `sudo snap install docker`
